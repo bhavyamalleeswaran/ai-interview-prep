@@ -43,3 +43,17 @@
 ### Tomorrow's plan
 - Build answer evaluator with scoring and feedback
 - Test with different roles and question types
+
+## Day 4 — 08/06/2026
+**Status:** ✅ Done
+
+### What I did
+- Built answer evaluator in routes/evaluate.py
+- AI returns score, strengths, weaknesses, ideal hint and summary
+- Tested with a sample answer - got score 7/10 with detailed feedback
+- Both question generator and answer evaluator working
+
+### Tomorrow's plan
+- Build FastAPI backend server
+- Connect all routes together
+- Test API endpoints with real requests
