@@ -57,3 +57,20 @@
 - Build FastAPI backend server
 - Connect all routes together
 - Test API endpoints with real requests
+
+## Day 5 — 08/06/2026
+**Status:** ✅ Done
+
+### What I did
+- Built FastAPI server in main.py
+- Connected question generator and answer evaluator routes
+- Added CORS middleware for frontend connection
+- Server running at http://localhost:8000
+- Tested API using Swagger UI at http://localhost:8000/docs
+- POST /api/generate-questions returning real AI questions
+- POST /api/evaluate-answer returning scores and feedback
+
+### Tomorrow's plan
+- Build React frontend UI
+- Create role selector, question card and feedback card components
+- Connect frontend to backend API
