@@ -30,3 +30,16 @@
 - Build question generator by role and type
 - Build answer evaluator with structured feedback
 - Test with different job roles
+
+## Day 3 — 08/06/2026
+**Status:** ✅ Done
+
+### What I did
+- Built question generator in routes/questions.py
+- Tested with behavioral questions for Software Engineer
+- AI returns structured JSON with id, question, type, difficulty
+- Works perfectly with Groq API
+
+### Tomorrow's plan
+- Build answer evaluator with scoring and feedback
+- Test with different roles and question types
