@@ -74,3 +74,18 @@
 - Build React frontend UI
 - Create role selector, question card and feedback card components
 - Connect frontend to backend API
+
+## Day 6 — 15/06/2026
+**Status:** ✅ Done
+
+### What I did
+- Built React frontend UI with Vite
+- Created role selector, level and question type dropdowns
+- Connected frontend to backend API
+- Full session flow working: select role → get question → type answer → get AI feedback
+- App showing score, strengths, weaknesses and ideal hint
+
+### Tomorrow's plan
+- Add session history to track progress
+- Style the UI to look more professional
+- Add loading states and error handling
